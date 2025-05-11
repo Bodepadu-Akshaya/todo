@@ -8,7 +8,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #6e7eeb, #c8a2ff); /* Gradient from blue to purple */
+  background: linear-gradient(135deg, #6e7eeb, #c8a2ff); 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,7 +60,7 @@ h1 {
 }
 
 .todo-btn {
-  background: #6c8de8; /* Neon Pink for a bold, eye-catching button */
+  background: #6c8de8;
   color: #fff;
   border: none;
   padding: 0.55rem 1.5rem;
@@ -70,7 +70,7 @@ h1 {
 }
 
 .todo-btn:hover {
-  background: #e2497a; /* Slightly darker neon pink on hover */
+  background: #e2497a; 
 }
 
 .Todo {
